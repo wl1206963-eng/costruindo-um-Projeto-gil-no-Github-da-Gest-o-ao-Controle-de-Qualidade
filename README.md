@@ -1,25 +1,29 @@
-# Task Manager - Projeto Ágil
+# Task Manager – API + Front-End
 
-Sistema web simples para gerenciamento de tarefas, desenvolvido como projeto acadêmico
-da disciplina Engenharia de Software.
+Projeto acadêmico da disciplina Engenharia de Software.
 
-## Metodologia
-Kanban, utilizando GitHub Projects.
+## Tecnologias
+- Node.js
+- Express
+- HTML, CSS e JavaScript
+- Metodologia Kanban
 
 ## Funcionalidades
 - Criar tarefas
 - Listar tarefas
-- Atualizar tarefas
+- Atualizar status
 - Excluir tarefas
-- Definir prioridade (Alta, Média, Baixa)
+- Prioridade de tarefas
 
-## Mudança de Escopo
-Foi adicionada a funcionalidade de prioridade das tarefas para melhorar a organização
-e o controle de atividades críticas.
+## Como Rodar
 
-## Como Executar
-npm install
-npm start
+### Backend
+cd backend  
+npm install  
+npm start  
 
-## Testes
-npm test
+### Frontend
+Abrir o arquivo `frontend/index.html` no navegador.
+
+## Arquitetura
+Front-end consome API REST desenvolvida em Express.
