@@ -1,0 +1,25 @@
+{
+  "name": "proj-agil-faculdade",
+  "version": "1.0.0",
+  "description": "Sistema web simples para gerenciamento de tarefas, desenvolvido como projeto acadêmico\r da disciplina Engenharia de Software.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node src/test/tasks.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wl1206963-eng/costruindo-um-Projeto-gil-no-Github-da-Gest-o-ao-Controle-de-Qualidade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wl1206963-eng/costruindo-um-Projeto-gil-no-Github-da-Gest-o-ao-Controle-de-Qualidade/issues"
+  },
+  "homepage": "https://github.com/wl1206963-eng/costruindo-um-Projeto-gil-no-Github-da-Gest-o-ao-Controle-de-Qualidade#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
