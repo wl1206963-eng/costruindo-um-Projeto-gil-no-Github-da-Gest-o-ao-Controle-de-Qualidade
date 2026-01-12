@@ -28,9 +28,16 @@ Abrir o arquivo `frontend/index.html` no navegador.
 ## Arquitetura
 Front-end consome API REST desenvolvida em Express.
 
-## Diagrama de Casos de Uso
+## 📌 Diagramas do Projeto
 
-<img src="docs/diagramas/Diagrama-Casos-Uso.png" width="700">
+### Diagrama de Casos de Uso
+![Casos de Uso](docs/diagramas/diagrama-casos-de-uso.png)
+
+### Diagrama de Classes
+![Classes](docs/diagramas/diagrama-classe.png)
+
+
+
 
 
 
