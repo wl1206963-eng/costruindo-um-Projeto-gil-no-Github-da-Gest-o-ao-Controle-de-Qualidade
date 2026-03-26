@@ -41,6 +41,8 @@ Front-end consome API REST desenvolvida em Express.
 
 (https://github.com/user-attachments/assets/6c1ba6a4-eb9f-408a-8495-caa0fb3716d5)
 
+https://images.openai.com/static-rsc-4/iD1lXpLlbmE-75E2cvjJrsFFWdJfy44B4b4VF3Ufh4e6-zKAxLnNcxQ3UjVYtyJZHDwP8BKzTPnjnZh2FAgVkf5CZqJn57GuZaOSUi2IelrqNNHdKHw7KlZL9sZiuom0ULxhDJv0i6rFdW92YaxX2W3cm246Bsel7lkX7knCzjko_DDzRI_iFEKydNPI8LKI?purpose=fullsize
+
 
 
 
