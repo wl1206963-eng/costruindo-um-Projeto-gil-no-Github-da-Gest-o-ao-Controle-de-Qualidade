@@ -29,13 +29,13 @@ Abrir o arquivo `frontend/index.html` no navegador.
 Front-end consome API REST desenvolvida em Express.
 
 
-
-
 ## 📊 Diagrama de Classes
-![Diagrama de Classes](docs/diagrama-classes.png)
+
+(https://github.com/user-attachments/assets/040dbb00-6c73-489a-8858-6183a048f269)
+
+
 
 ## 🎯 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](docs/diagrama-casos-uso.png)
 
 (https://github.com/user-attachments/assets/90c5fa4b-49c7-4ddd-986a-da3575f53c13)
 
