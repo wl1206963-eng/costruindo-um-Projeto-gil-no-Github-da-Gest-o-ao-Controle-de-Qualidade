@@ -31,7 +31,8 @@ Front-end consome API REST desenvolvida em Express.
 
 ## 📊 Diagrama de Classes
 
-(https://github.com/user-attachments/assets/040dbb00-6c73-489a-8858-6183a048f269)
+(https://github.com/user-attachments/assets/056c20ad-964b-4ea8-a1f1-9e15636070e2)
+
 
 
 
